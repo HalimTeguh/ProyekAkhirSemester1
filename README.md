@@ -1,10 +1,10 @@
-Nama            : Halim Teguh Saputro
+Nama\t\t\t: Halim Teguh Saputro
 
-NIM             : 2131710122
+NIM\t\t\t: 2131710122
 
-Jurusan/Prodi   : Teknologi Informasi/D-III Manajemen Informatika
+Jurusan/Prodi\t: Teknologi Informasi/D-III Manajemen Informatika
 
-Kampus          : Politeknik Negeri Malang
+Kampus\t\t\t: Politeknik Negeri Malang
 
 ==================================================================
 
